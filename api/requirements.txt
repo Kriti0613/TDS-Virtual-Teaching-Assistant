@@ -1,0 +1,8 @@
+fastapi
+mangum
+uvicorn
+sentence-transformers
+faiss-cpu
+pillow
+pytesseract
+requests
